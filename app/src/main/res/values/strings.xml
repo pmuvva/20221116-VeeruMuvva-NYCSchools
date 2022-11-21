@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NYCSchools</string>
+    <string name="name">School Name: %s</string>
+    <string name="sat_results">SAT RESULTS</string>
+    <string name="math">Math: %s</string>
+    <string name="reading">Reading: %s</string>
+    <string name="writing">Writing: %s</string>
+    <string name="no_details_found">No Details Found</string>
+    <string name="no_schools_found">No Schools found</string>
+</resources>
